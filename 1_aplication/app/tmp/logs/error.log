@@ -1,0 +1,20 @@
+2015-02-26 18:52:14 Error: Fatal Error (1): Call to undefined function _h() in [C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\app\View\Posts\index.ctp, line 5]
+2015-02-26 18:52:14 Error: [FatalErrorException] Call to undefined function _h()
+Request URL: /www/aplication/CakePHP_Implementation/1_aplication/Posts/index
+Stack Trace:
+#0 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-26 18:52:31 Error: Fatal Error (1): Call to undefined function _e() in [C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\app\View\Posts\index.ctp, line 5]
+2015-02-26 18:52:31 Error: [FatalErrorException] Call to undefined function _e()
+Request URL: /www/aplication/CakePHP_Implementation/1_aplication/Posts/index
+Stack Trace:
+#0 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\www\aplication\CakePHP_Implementation\1_aplication\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
